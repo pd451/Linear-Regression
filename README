@@ -1,0 +1,2 @@
+The Linreg.c takes as input a two text files and returns the predicted output associated with a linear fit. One is the training data, which states the number of features, number training points and the points themselves with the output value. The second text file is the 
+test data which gives the value of the features and expects the program to output the associated output given those features. 
